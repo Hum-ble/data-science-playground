@@ -9,4 +9,6 @@ and small projects used to practice data science concepts.
 - Pandas & NumPy
 - Data Visualization
 - Machine Learning
+## Projects
+- (Coming soon)
 
